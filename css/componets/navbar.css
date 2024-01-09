@@ -1,0 +1,35 @@
+.v-navbar{
+    display: flex;
+    color: var(--md-ref-palette-neutral100);
+    height: 5rem;
+    background: var(--md-ref-palette-secondary10);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.v-navbar-logo {
+    height: 2.5rem;
+}
+
+.v-navbar-menu {
+    margin-left: auto;
+    display: flex;
+}
+
+.v-navbar-menu-item {
+    list-style-type: none;
+    margin-right: 1rem;
+}
+
+.v-navbar-menu-item a {
+    text-decoration: none;
+    color: var(--md-ref-palette-neutral100);
+}
+
+.v-navbar-menu-icon {
+    font-size: 1.2rem;
+}

@@ -10,3 +10,8 @@ HarmonyCSS se asemeja al agua en su versatilidad y capacidad para adaptarse al e
 3. **Pureza y Claridad:** Al igual que el agua pura, que es transparente y clara, HarmonyCSS se enfoca en una estructura clara y legible. Sus reglas y convenciones de estilo promueven un código limpio y organizado, facilitando la comprensión y el mantenimiento del diseño.
 
 4. **Armonía y Equilibrio:** Similar al equilibrio natural del agua, HarmonyCSS busca una estética armoniosa y equilibrada en el diseño web. Ofrece una paleta de estilos coherentes y consistentes que brindan uniformidad visual y cohesión estilística a lo largo de la interfaz.
+
+**Mini marco de trabajo basado en material 3**
+
+more info of ( UX/UI ):
+https://m3.material.io/get-started
